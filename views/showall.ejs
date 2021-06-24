@@ -1,0 +1,34 @@
+<%- include("Header") -%>
+
+<h2 class="srhead">Student Record</h2>
+
+
+<% record.forEach((item, i) => {  %>
+
+
+  <div class="showrec">
+
+    <ul>
+
+      <li> Student Name: <%= item.firstName  %>  <%= item.lastName  %> </li>
+      <li> Roll Number:     <%= item.rollNumber %> </li>
+        <li> AP marks: <%= item.APmarks %> </li>
+          <li> COA marks : <%= item.COAmarks %> </li>
+          <li> IDBMS marks : <%= item.DBMSmarks %> </li>
+              <li> OTA marks : <%= item.OTAmarks %> </li>
+                  <li> M3 marks : <%= item.Mmarks %> </li>
+            <li> Projected CGPA : <%= item.cgpa %> </li>
+
+    </ul>
+
+
+  </div>
+
+
+<%   });  %>
+
+
+
+  <a href="/home">Go To Homepage</a>
+
+<%- include("Footer") -%>

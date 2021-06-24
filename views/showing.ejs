@@ -1,0 +1,25 @@
+<%- include("Header") -%>
+
+<h2 class="srhead">Student Record</h2>
+
+<div class="showrec">
+
+  <ul>
+
+    <li> Student Name: <%= record[0].firstName  %>  <%= record[0].lastName  %> </li>
+    <li> Roll Number:     <%= record[0].rollNumber %> </li>
+      <li> AP marks: <%= record[0].APmarks %> </li>
+        <li> COA marks : <%= record[0].COAmarks %> </li>
+        <li> IDBMS marks : <%= record[0].DBMSmarks %> </li>
+            <li> OTA marks : <%= record[0].OTAmarks %> </li>
+                <li> M3 marks : <%= record[0].Mmarks %> </li>
+          <li> Projected CGPA : <%= record[0].cgpa %> </li>
+
+  </ul>
+
+
+</div>
+
+  <a href="/home">Go To Homepage</a>
+
+<%- include("Footer") -%>

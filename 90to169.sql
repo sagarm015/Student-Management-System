@@ -1,0 +1,22 @@
+INSERT INTO studetail 
+VALUES("19ucs090", "Aayush", "Mehta", null, null),("19ucs091", "Abhinav", "Agarval", null, null),("19ucs092", "Abhishek", "Tiwari", null, null),("19ucs093", "Aditya", "Gautam", null, null),
+("19ucs094", "Akshat", "Gupta", null, null),("19ucs095", "Akshay", "Shrivastava", null, null),("19ucs096", "Akshit", "Sethi", null, null),("19ucs097", "Amit", "Gupta", null, null),
+("19ucs098", "Aniket", "Shukla", null, null),("19ucs099", "Anima", "Mundra", null, null),("19ucs100", "Anirudh", "Singh", null, null),("19ucs101", "Ankitesh", "Kumar", null, null),
+("19ucs102", "Ankush", "Dutt", null, null),("19ucs103", "Ansh", "Jain", null, null),("19ucs104", "Anshu", "Kumari", null, null),("19ucs105", "Anshuman", "Singh", null, null),
+("19ucs106", "Anuj", "Jain", null, null),("19ucs107", "Anurag", "Garg", null, null),("19ucs108", "Anushka", "Vyas", null, null),("19ucs109", "Apurv", "Mundhra", null, null),
+("19ucs110", "Arpita", "Jain", null, null),("19ucs111", "Aryan", "Dhuria", null, null),("19ucs112", "Ashish", "Lalwani", null, null),("19ucs113", "Ashutosh", "Gaggar", null, null),
+("19ucs114", "Atharv", "Goyal", null, null),("19ucs115", "Atul", "Kumar", null, null),("19ucs116", "Avik", "Maheshwari", null, null),("19ucs117", "Ayush", "Agrawal", null, null),
+("19ucs118", "Bhavya", "Seghal", null, null),("19ucs119", "Bhumur", "Agrawal", null, null),("19ucs120", "Daksh", "Khandelwal", null, null),("19ucs121", "Dakshita", "Poddar", null, null),
+("19ucs122", "Deepali", "Garg", null, null),("19ucs123", "Devang", "Lodha", null, null),("19ucs124", "Devesh", "Gupta", null, null),("19ucs125", "Divya", "Jain", null, null),
+("19ucs126", "Divyansh", "Bhaduria", null, null),("19ucs127", "Diya", "Pathak", null, null),("19ucs128", "Garvit", "Vijayvargia", null, null),("19ucs129", "Gaurank", "Maheshwari", null, null),
+("19ucs130", "Gaurav", "Bhinda", null, null),("19ucs131", "Gokul", "Shah", null, null),("19ucs132", "Gunit", "Varshney", null, null),("19ucs133", "Gunjan", "Paghdar", null, null),
+("19ucs134", "Hardik", "Bhati", null, null),("19ucs135", "Harsh", "Agarwal", null, null),("19ucs136", "Hemang", "Goyal", null, null),("19ucs137", "Hetav", "Patel", null, null),
+("19ucs138", "Himanshu", "Kumar", null, null),("19ucs139", "Ishan", "Arora", null, null),("19ucs140", "Ishita", "Mittal", null, null),("19ucs141", "Jalaj", "Gupta", null, null),
+("19ucs142", "Jaskaran", "Singh", null, null),("19ucs143", "Jatin", "Dahiya", null, null),("19ucs144", "Jhanvi", "Thakuria", null, null),("19ucs145", "Jitendra", "Garg", null, null),
+("19ucs146", "Kanika", "Didwaniya", null, null),("19ucs147", "Karan", "Kothari", null, null),("19ucs148", "Kartik", "Singhal", null, null),("19ucs149", "Kartikeya", "Agrawal", null, null),
+("19ucs150", "Kehsav", "Maheshwari", null, null),("19ucs151", "Khalid", "Khan", null, null),("19ucs152", "Khushi", "Mittal", null, null),("19ucs153", "Khushi", "Sancheti", null, null),
+("19ucs154", "Kuber", "Varshney", null, null),("19ucs155", "Kunal", "Jain", null, null),("19ucs156", "Kush", "Gandhi", null, null),("19ucs157", "Lakshay", "Agarval", null, null),
+("19ucs158", "Lavish", "Mehta", null, null),("19ucs159", "Manan", "Maheshwari", null, null),("19ucs160", "Manish", "Porwal", null, null),("19ucs161", "Manit", "Mehta", null, null),
+("19ucs162", "Mansi", "Agarwal", null, null),("19ucs163", "Manthan", "Goyal", null, null),("19ucs164", "Mayank", "Raj", null, null),("19ucs165", "Meet", "Jain", null, null),
+("19ucs166", "Mohammed", "Suraj", null, null),("19ucs167", "Mohit", "Jain", null, null),("19ucs168", "Naman", "Dhanotia", null, null),("19ucs169", "Naresh", "Kumawat", null, null);
+
